@@ -1,0 +1,32 @@
+h1 {
+  border: 100px;
+  background-color: royalblue;
+  font-family: "Times New Roman", Times, serif;
+  color: blue;
+  
+}
+
+.heading2 {
+  border: 100px;
+ color: blueviolet;
+}
+
+.heading3 {
+  border: 100px;
+ color:orange;
+ background-color: yellow;
+}
+
+.heading4 {
+  border: 100px;
+ color:black;
+ background-color:lightgreen;
+}
+a.button {
+  padding: 1px 6px;
+  border: 1px outset buttonborder;
+  border-radius: 3px;
+  color: buttontext;
+  background-color: buttonface;
+  text-decoration: none;
+}

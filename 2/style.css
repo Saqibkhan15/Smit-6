@@ -1,0 +1,36 @@
+
+body {
+    font-family: Arial, Verdana, sans-serif;
+    background-color:rgb(197, 203, 210);
+    border: auto;
+    color: azure;
+    padding: 10px;}
+
+
+h1{
+    border: 100px;
+    background-color:pink;
+    font-family: "Times New Roman", Times, serif;
+    color: rgb(85, 0, 0);
+  }
+
+.in{
+    background-color:white;
+    color:yellow;
+    border: 100px;
+}
+
+ul{
+color: greenyellow;
+text-decoration: underline;
+border-style: dashed;
+
+}
+a.button {
+    padding: 1px 6px;
+    border: 1px outset buttonborder;
+    border-radius: 3px;
+    color: buttontext;
+    background-color: buttonface;
+    text-decoration: none;
+  }
